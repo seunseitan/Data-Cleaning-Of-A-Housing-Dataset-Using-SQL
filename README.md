@@ -1,1 +1,1 @@
-# Data-Cleaning-Of-A-Housing-Dataset-Using-SQL
+This focuses on cleaning a housing dataset using SQL. It includes SQL scripts and queries designed to address data cleaning tasks, enhancing the quality and reliability of the housing dataset. The process involves handling missing values, removing duplicates, standardizing formats and ensuring data integrity, providing a cleaner and more useful dataset for analysis
